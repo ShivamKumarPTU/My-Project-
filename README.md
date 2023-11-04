@@ -1,2 +1,3 @@
 # My-Project-
-Analysing ,creating &amp; improvising day to day life projects.
+Analysing ,creating & improvising day to day life projects.
+Hello I am a begineer in field of programming.
